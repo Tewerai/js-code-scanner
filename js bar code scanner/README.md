@@ -1,0 +1,1 @@
+==>This application can scan bar-codes & QR-codes using a simple browser. 
